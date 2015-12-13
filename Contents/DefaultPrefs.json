@@ -1,0 +1,9 @@
+[
+        {
+                "id":           "sort_pages",
+                "label":        "sort_pages",
+                "type":         "enum",
+                "values":       ["rating", "hits", "none"],
+                "default":      "rating",
+        },
+]

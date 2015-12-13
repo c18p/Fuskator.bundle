@@ -1,0 +1,16 @@
+{
+        "latest": "Latest",
+        "popular_tags": "Popular Tags",
+        "random_gallery": "Random Gallery",
+        "search": "Search",
+        "search_history": "Search History",
+        "clear_search_history": "Clear Search History",
+        "preferences": "Preferences",
+        "more": "Next Page",
+        "quality": "Quality",
+        "rating": "Rating",
+        "hits": "Hits",
+        "tags": "Tags",
+        "none": "None",
+        "sort_pages": "Sort individual pages by Rating"
+}
